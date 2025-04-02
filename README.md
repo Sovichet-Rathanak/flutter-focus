@@ -1,16 +1,20 @@
-# login_ui
+# Flutter Login UI
 
-A new Flutter project.
+A simple login ui using Flutter
 
-## Getting Started
+## Understanding
+- Statful widget
+- Checkbox
+- Textfield
 
-This project is a starting point for a Flutter application.
+## Project Output/Result
+### Login
+<p align="center">
+  <img src="assets/screenshots/login.png" alt="login image"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### Register
+<p align="center">
+  <img src="assets/screenshots/register.png" alt="login image"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
