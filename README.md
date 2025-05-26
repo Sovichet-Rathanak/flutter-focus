@@ -1,16 +1,14 @@
-# workagency
+# Worktency
+A simple landing page for an app.
+## Understanding
+Listview
 
-A new Flutter project.
+## Project Output
+### Ouput 1
+![output 1](/assets/images/output1.png)
 
-## Getting Started
+### Ouput 2
+![output 1](/assets/images/output2.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Ouput 3
+![output 1](/assets/images/output3.png)
